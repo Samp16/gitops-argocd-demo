@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: react-frontend
-          image: samhitha708/my-react-app:v2
+          image: samhitha708/my-react-app:latest
           ports:
             - containerPort: 80
