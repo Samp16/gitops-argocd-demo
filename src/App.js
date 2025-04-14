@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-  🚀 Welcome Deployed with ArgoCD GitOps
+  🚀 Welcome to My GitOps React App!
 </p>
 <a
   className="App-link"
